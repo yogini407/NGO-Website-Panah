@@ -19,7 +19,10 @@ ReactJS: A JavaScript library for building user interfaces.
 #Getting Started
 
 Clone the repository:
-git clone https://github.com/bhaveshpatil07/The-Sanjivani-NGO-ReactJs
+git clone 
+
+Visit the website at
+https://yogini407.github.io/NGO-Website-Panah/
 
 Install the dependencies:
 npm install
